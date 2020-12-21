@@ -1,2 +1,2 @@
 # Capstone-Project
-Capstone project for IBM Data Science Professional Certificate 
+Here you will find notebooks I created for the Capstone project for the IBM Data Science Professional Certificate. 
